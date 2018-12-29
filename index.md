@@ -4,4 +4,4 @@
 
 ## Emoji list
 
-https://www.webfx.com/tools/emoji-cheat-sheet/
+[https://www.webfx.com/tools/emoji-cheat-sheet/]
