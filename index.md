@@ -1,7 +1,7 @@
-#COMMIT MESSAGE
+## Commit messages Rule
 
 ![commit_message](./img/commit_message.jpg)
 
-#EMOJI LIST URL
+## Emoji list
 
 https://www.webfx.com/tools/emoji-cheat-sheet/
